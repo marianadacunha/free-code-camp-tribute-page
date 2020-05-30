@@ -1,0 +1,83 @@
+#header {
+    background-color: rgb(209, 209, 209);
+    padding: 30px;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    color: #313131;
+}
+
+#subtitle {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: #585858;
+}
+
+#img-div {
+    padding: 10px;
+    background-color: rgb(209, 209, 209);
+}
+
+#img {
+    display: block;
+    margin: auto;
+}
+
+#img-info {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: #5a5a5a;
+    padding-top: 5px;
+}
+
+#tribute-info {
+    background-color: rgb(233, 233, 233);
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+#timeline {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #313131;
+}
+
+#timeline-years {
+    padding-top: 40px;
+    padding-left: 140px;
+    max-width: 80%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #313131;
+}
+
+#quote {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 42px;
+    color: #313131;
+    padding: 40px;
+    background-color: rgb(209, 209, 209);
+}
+
+#wiki {
+    background-color: rgb(233, 233, 233);
+    padding: 30px;
+    text-align: center;
+}
+
+#wiki-text {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #313131;
+}
