@@ -61,17 +61,40 @@
     color: #313131;
 }
 
+#gallery {
+    background-color: rgb(209, 209, 209);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#gallery-title {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #313131;
+    background-color: rgb(209, 209, 209);
+    display: block;
+    margin: auto;
+}
+
+#img-gallery {
+    width: 340px;
+    display: block;
+    margin: auto;
+}
+
 #quote {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size: 42px;
     color: #313131;
-    padding: 40px;
-    background-color: rgb(209, 209, 209);
+    padding: 35px;
+    background-color: rgb(233, 233, 233);
 }
 
 #wiki {
-    background-color: rgb(233, 233, 233);
+    background-color: rgb(209, 209, 209);
     padding: 30px;
     text-align: center;
 }
