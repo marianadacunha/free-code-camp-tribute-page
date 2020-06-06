@@ -9,6 +9,7 @@
     font-size: 80px;
     font-weight: 600;
     color: #313131;
+    max-width: 90vw;
 }
 
 #subtitle {
@@ -16,6 +17,7 @@
     font-family: 'Oswald', sans-serif;
     font-size: 30px;
     color: #585858;
+    max-width: 90vw;
 }
 
 #img-div {
@@ -26,6 +28,7 @@
 #image {
     display: block;
     margin: auto;
+    max-width: 90vw;
 }
 
 #img-caption {
@@ -81,7 +84,9 @@
 #img-gallery {
     width: 340px;
     display: block;
-    margin: auto;
+    margin: 5px;
+    max-width: 100%;
+    height: auto;
 }
 
 #quote {
