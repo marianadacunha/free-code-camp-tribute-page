@@ -6,11 +6,11 @@ Repository for the code of the Margaret Hilton tribute page, a challenge propose
 
 This page was build using HTML and CSS, only.
 
-### Objective
+# Objective
 
 Build a page that is functionally similar to this <a href="https://codepen.io/freeCodeCamp/full/zNqgVx">this</a>.</br>.
 
-### Preview
+# Preview
 
 You can see the live site clicking <a href="https://marianadacunha.github.io/margaret-hamilton-tribute-page/">here</a>.</br>
 
